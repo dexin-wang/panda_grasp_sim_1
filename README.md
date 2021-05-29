@@ -2,10 +2,8 @@
 
 基于pybullet官方提供的panda抓取示例改的，运行视频：https://www.bilibili.com/video/BV16A411W7fD
 
-依赖：
-
+依赖包：
 numpy 
-
 pybullet
 
 
