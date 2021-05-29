@@ -13,3 +13,5 @@ python3 loadpanda_grasp.py
 ```
 
 这里提供的代码被我稍微修改了一点，运行效果和视频稍微有点差别。
+
+任何问题可以联系dexinwang@mail.sdu.edu.cn
